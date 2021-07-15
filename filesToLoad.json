@@ -1,0 +1,34 @@
+{
+  "githubLoc": "https://github.com/ivous/MarkdownWebPage/tree/master/doc",
+  "filesToLoadArr": [
+    {
+      "name": "prerequisities",
+      "path": "/prerequisities",
+      "file": "prerequisities.md"
+    },
+    {
+      "name": "prerequisities2",
+      "path": "/prerequisities",
+      "file": "prerequisities.md"
+    }    
+  ],
+
+  "menuStructure": [
+    {
+      "type": "Folder",
+      "name": "Utility",
+      "children": [
+        {
+          "type": "File",
+          "name": "prerequisities",
+          "file": "prerequisities.md"
+        },
+        {
+          "type": "File",
+          "name": "prerequisities2",
+          "file": "prerequisities.md"
+        }
+      ]
+    }
+  ]
+}
